@@ -27,6 +27,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/marvell-technology-domain-security.yml
   - type: Website
     url: https://www.marvell.com
   - type: Support
@@ -35,6 +37,8 @@ common:
     url: https://www.linkedin.com/company/marvell-semiconductor
   - type: GitHubOrganization
     url: https://github.com/MarvellEmbeddedProcessors
+  - type: Blog
+    url: https://www.marvell.com/blogs.html
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
